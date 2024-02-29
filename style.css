@@ -14,4 +14,10 @@ p {
     font-family: "consolas", sans-serif;
     font-size: 18px;
 }
- 
+
+li {
+    color: rgb(220, 205, 205);
+    font-family: "consolas", sans-serif;
+    font-size: 18px;
+
+}
