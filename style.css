@@ -1,16 +1,16 @@
 body {
-    background: #000000;
-    color: #000000;
+    background: rgb(24, 14, 14);
+    color: rgb(220, 205, 205);
 }
 
 h1 {
-    color: white;
+    color: rgb(187, 25, 25);
     font-family: "consolas", sans-serif;
 } 
  
  
 p {
-    color: white;
+    color: rgb(220, 205, 205);
     font-family: "consolas", sans-serif;
     font-size: 18px;
 }
